@@ -1,2 +1,15 @@
-# -Achievements
-Hands-on cybersecurity achievements and learning proofs (Microsoft Defender, Azure Security)
+# 🏆 Cybersecurity Achievements
+
+This repository documents my hands-on cybersecurity learning and achievements, with a focus on blue team and SOC-related tools.
+
+## 🔐 Microsoft Defender
+- Incident investigation and response
+- Alert analysis and incident classification
+- Microsoft 365 Defender workflows
+
+## ☁️ Azure Security
+- Governance and compliance concepts
+- Azure security controls and best practices
+- Cloud security fundamentals
+
+Each section contains proof of completion and learning artifacts.
