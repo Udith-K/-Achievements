@@ -12,4 +12,9 @@ This repository documents my hands-on cybersecurity learning and achievements, w
 - Azure security controls and best practices
 - Cloud security fundamentals
 
+## ☁️ Splunk learning
+- Phishing identification and reporting
+- Social engineering motivators
+- Risk fundamentals (Threat, Vulnerability, Exploit)
+
 Each section contains proof of completion and learning artifacts.
