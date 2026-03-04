@@ -1,0 +1,9 @@
+splunk-investigation-lab
+│
+├── certificate
+│   └── splunk-art-of-investigation.pdf
+│
+├── investigation-report
+│   └── splunk_enterprise_investigation.pdf
+│
+└── README.md
