@@ -17,4 +17,11 @@ This repository documents my hands-on cybersecurity learning and achievements, w
 - Social engineering motivators
 - Risk fundamentals (Threat, Vulnerability, Exploit)
 
+## 🛡️ Fortinet Certifications
+
+### 🎓 NSE 1 – Network Security Associate
+- Completed Fortinet’s introductory cybersecurity certification
+- Covered threat landscape, malware types, attack vectors, and security fundamentals
+- Strengthened foundational knowledge for SOC and blue team roles
+
 Each section contains proof of completion and learning artifacts.
